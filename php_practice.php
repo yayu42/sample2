@@ -1,6 +1,7 @@
 <?php
-function sumab($a,$b){
-    return $a + $b;
+function product($num){
+  return $num *2;
 }
-echo sumab(1,3);
+
+echo product(10)
 ?>
